@@ -1,0 +1,78 @@
+body
+{
+    background: url(../files/bg.png);
+    font-family: 'Holtwood One SC', sans-serif;
+}
+.cookie{
+  color: #fff!important;
+  text-align: center!important;
+  font-size: 50px;
+  display: inline;
+}
+
+.button {
+   border-top: 1px solid #ffa200;
+   background: #7e0ec4;
+   background: -webkit-gradient(linear, left top, left bottom, from(#9c3e3e), to(#7e0ec4));
+   background: -webkit-linear-gradient(top, #9c3e3e, #7e0ec4);
+   background: -moz-linear-gradient(top, #9c3e3e, #7e0ec4);
+   background: -ms-linear-gradient(top, #9c3e3e, #7e0ec4);
+   background: -o-linear-gradient(top, #9c3e3e, #7e0ec4);
+   padding: 10.5px 21px;
+   -webkit-border-radius: 25px;
+   -moz-border-radius: 25px;
+   border-radius: 25px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   font-size: 24px;
+   font-family: 'Holtwood One SC', Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #a000fc;
+   background: #a000fc;
+   color: #ffffff;
+   }
+.button:active {
+   border-top-color: #ffffff;
+   background: #ffffff;
+   }
+
+   .button-final {
+      border-top: 1px solid #FFD700;
+      background: #FFD700;
+      background: -webkit-gradient(linear, left top, left bottom, from(#9c3e3e), to(#7e0ec4));
+      background: -webkit-linear-gradient(top, #FFD700, #FFD700);
+      background: -moz-linear-gradient(top, #FFD700, #FFD700);
+      background: -ms-linear-gradient(top, #FFD700, #FFD700);
+      background: -o-linear-gradient(top, #FFD700, #FFD700);
+      padding: 10.5px 21px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+      -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+      box-shadow: rgba(0,0,0,1) 0 1px 0;
+      text-shadow: rgba(0,0,0,.4) 0 1px 0;
+      color: #FFFFFF;
+      font-size: 24px;
+      font-family: 'Holtwood One SC', Sans-Serif;
+      text-decoration: none;
+      vertical-align: middle;
+      }
+   .button-final:hover {
+      border-top-color: #a000fc;
+      background: #a000fc;
+      color: #FFFF00;
+      }
+   .button-final:active {
+      border-top-color: #ffffff;
+      background: #ffffff;
+      }
+.btn-right{
+  float: right;
+}
